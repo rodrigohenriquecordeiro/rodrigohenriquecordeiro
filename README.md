@@ -14,8 +14,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
@@ -29,12 +27,10 @@
 
 <br/>
 
-<a href="https://github.com/rodrigohenriquecordeiro" title="Perfil do Iuri">
+<a href="https://github.com/rodrigohenriquecordeiro" title="Perfil do Rodrigo H. Cordeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigohenriquecordeiro&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigohenriquecordeiro/" alt="LinkedIn"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigohenriquecordeiro/)
