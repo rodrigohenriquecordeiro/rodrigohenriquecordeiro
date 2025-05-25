@@ -4,6 +4,9 @@
 - 🎓 Cursando último ano de  **Análise e Desenvolvimento de Sistemas** no SENAC.
 - 💼 Trabalhando como **Full Stack Developer** na SPED Automation.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigohenriquecordeiro&layout=compact)
+
+
 ## Minhas Skills
 
 **Aplicações e dados**
