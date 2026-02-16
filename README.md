@@ -4,7 +4,6 @@
 - 🎓 Cursando último ano de  **Análise e Desenvolvimento de Sistemas** no SENAC.
 - 💼 Trabalhando como **Full Stack Developer** na SPED Automation.
 
-
 ## Minhas Skills
 
 **Aplicações e dados**
@@ -30,12 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square)
 
-
 <br/>
-
-<a href="https://github.com/rodrigohenriquecordeiro" title="Perfil do Rodrigo H. Cordeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigohenriquecordeiro&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
